@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@emailjs/browser": "^3.11.0",
+    "startbootstrap-resume": "^7.0.5",
+    "sweetalert": "^2.1.2"
+  }
+}
